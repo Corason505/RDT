@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif; 
+}
+div{
+    background-color:#EEEBDD ;
+    color: #1B1717;
+}
+h1{
+    margin: 0 auto;
+    font-size: 5.7rem;
+    font-family: 'Sassy Frass', cursive;
+    line-height: 2em;
+    color:#810000 ;
+}
+h2{
+    font-family: 'Josefin Sans', sans-serif; 
+    font-size: 2,5;
+    font-weight: normal;
+    color:#810000 ;
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif; 
+    color:#810000 ;
+}
+.top{
+    position: relative;
+    padding-top: 100px;
+}
+.felho{
+    position: absolute;
+    right: 250px;
+}
+.felho1{
+    position: absolute;
+    left: 300px;
+    bottom:300px;
+}
+.pfp{
+    height:200px;
+    width:200px;
+}
+.cp{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.wc{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 200%;
+}
